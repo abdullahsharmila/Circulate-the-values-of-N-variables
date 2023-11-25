@@ -31,9 +31,10 @@ def circulate():
 
 
 ### Output:
-
 ![Alt text](<Screenshot 2023-11-24 053943.png>)
 
 
+## Result:
+Hence circulate of n variables in a list is obtained.
 
 
