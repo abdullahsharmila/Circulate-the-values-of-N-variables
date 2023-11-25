@@ -20,7 +20,7 @@ Using the slicing concept rotate the list
 ### Step 5:
 Print  the result
 ## Program:
-```````
+``````
 
 def circulate():
     l=eval(input())
@@ -30,7 +30,7 @@ def circulate():
 ``````
 
 
-## Output:
+### Output:
 
 ![Alt text](<Screenshot 2023-11-24 053943.png>)
 
