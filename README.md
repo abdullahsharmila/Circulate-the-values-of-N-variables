@@ -31,7 +31,7 @@ def circulate():
 
 
 ### Output:
-![Alt text](<Screenshot 2023-11-24 053943.png>)
+![Alt text](<Screenshot 2023-11-26 000650.png>)
 
 
 ## Result:
